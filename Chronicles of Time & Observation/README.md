@@ -1,7 +1,6 @@
 # Chronicles of Time & Observation  
 Records of what was seen, what was remembered, and what the Arc has since unmade.
 
----
 
 ## Overview  
 The **Chronicles of Time & Observation** preserve memory as both testimony and interpretation. These records span the solemn, the fragmented, and the ritualized—offering glimpses into events as they were perceived by those who endured, witnessed, or recalled them through resonance, decay, or silence.
