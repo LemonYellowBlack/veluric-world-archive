@@ -1,4 +1,4 @@
-# veluric-world-archive
+# The Veluric World Archive  
 A living archive of the world thrice named.
 
-The Veluric World Archive chronicles its complete architecture: metaphysical, cultural, natural, and narrative.
+This archive chronicles the complete architecture of the Veluric world: its metaphysics, cultures, natural forces, and unfolding narratives.  
