@@ -1,7 +1,6 @@
 # The Veluric Saga: A World Thrice Named
 The Veluric world passes through cycles of the Arc: Velureth falls, Veluria emerges, Velur rests beneath.
 
-- - -
 ## Orders Of Velureth  
 Three Orders struggle for power across Velureth. A heretical cult seeds discord to usher in the Second Silence and the End of Eternity.
 
