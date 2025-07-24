@@ -1,6 +1,6 @@
 # Woven Narratives  
 
-This folder gathers the diverse storyforms of folk tellings, allegories, fables, memory-trails, and survival myths of the Veluric world. These narratives do not speak with one voice, nor do they conform to any one truth. They exist in distortion, recursion, and tension—woven not to clarify, but to reveal the shape of a world as it forgets and remembers itself.
+A collection of diverse storyforms of folk tellings, allegories, fables, memory-trails, and survival myths of the Veluric world. These narratives do not speak with one voice, nor do they conform to any one truth. They exist in distortion, recursion, and tension—woven not to clarify, but to reveal the shape of a world as it forgets and remembers itself.
 
 Many of these texts are incomplete, contradictory, or ritualized beyond recognition. Some are preserved by oral stewards; others remain only as half-burnt vellums or annotated dream-accounts. Their value lies not in canon, but in resonance.
 
